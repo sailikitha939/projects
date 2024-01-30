@@ -1,0 +1,42 @@
+body {
+    background-image: url('file:///C:/Users/Windows%2011/OneDrive/Documents/likitha_projects/Vacation_Recommender_Project/bg4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+  }
+
+  label[for="continentSelect"] {
+    font-size: 30px; /* Set the font size to 30 pixels */
+  }
+  
+  #continentSelect {
+    margin: 10px; /* Adjust the margin as needed */
+    font-size: 25px; /* Set the font size to 15 pixels */
+  }
+
+  label[for="typeSelect"] {
+    font-size: 30px; /* Set the font size to 30 pixels */
+  }
+  
+  #typeSelect {
+    margin: 10px; /* Adjust the margin as needed */
+    font-size: 25px; /* Set the font size to 15 pixels */
+  }
+
+  #searchButton {
+    display: block;
+    margin: 0 auto;
+    font-size: 30px;
+  }
+  
+  #resultsContainer {
+    text-align: center;
+    color: white;
+    font-size: 20px
+  }
+  
